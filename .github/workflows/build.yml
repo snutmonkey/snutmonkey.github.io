@@ -1,4 +1,5 @@
 name: Build the Gram
+on: schedule 
 jobs:
   build:
     runs-on: ubuntu-latest
