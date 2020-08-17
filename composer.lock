@@ -102,7 +102,7 @@
         },
         {
             "name": "raiym/instagram-php-scraper",
-            "version": "v0.9.10",
+            "version": "v0.9.12",
             "source": {
                 "type": "git",
                 "url": "https://github.com/postaddictme/instagram-php-scraper.git",
