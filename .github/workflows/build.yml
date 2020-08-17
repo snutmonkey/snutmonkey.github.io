@@ -2,7 +2,7 @@ name: Build the Gram
 
 on:
   schedule:
-    - cron:  '1 */* * * *'
+    - cron:  '* */1 * * *'
 
 jobs:
   build:
