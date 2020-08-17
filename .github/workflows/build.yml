@@ -1,9 +1,4 @@
 name: Build the Gram
-
-on:
-  schedule:
-    - cron:  '*/1 * * * *'
-
 jobs:
   build:
     runs-on: ubuntu-latest
